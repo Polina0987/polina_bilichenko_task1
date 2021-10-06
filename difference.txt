@@ -1,1 +1,0 @@
-What is the difference between 'git pull' and 'git  fetch'? Pull downloads and integrates data into current working copy files. Fetch only downloads new data from a remote repository. 
